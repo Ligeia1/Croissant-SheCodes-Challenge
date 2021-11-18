@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: rgba(41, 215, 238, 0.2);
+}
+
+h1 {
+  font-weight: 700;
+  margin: 20px;
+}
+
+img {
+  max-width: 100%;
+}
