@@ -1,6 +1,7 @@
 body {
   text-align: center;
   background-color: rgba(41, 215, 238, 0.2);
+  padding: 10px;
 }
 
 h1 {
@@ -9,5 +10,7 @@ h1 {
 }
 
 img {
-  max-width: 100%;
+  max-width: 70%;
+  max-height: 100%;
+  border-radius: 8px;
 }
